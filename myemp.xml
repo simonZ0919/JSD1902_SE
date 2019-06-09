@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+  <emp id="1">
+    <name>Simon</name>
+    <age>25</age>
+    <gender>male</gender>
+  </emp>
+  <emp id="2">
+    <name>Mary</name>
+    <age>21</age>
+    <gender>female</gender>
+  </emp>
+</list>
